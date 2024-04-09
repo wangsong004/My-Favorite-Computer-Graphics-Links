@@ -9,6 +9,9 @@
 [TOG Research Resources](https://dl.acm.org/journal/tog/bib-look)
 
 ## Homepages
+[Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) 
+
+[keenan Crane](https://www.cs.cmu.edu/~kmcrane/) 
 
 ## Courses
 
