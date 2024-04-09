@@ -13,6 +13,8 @@
 
 [keenan Crane](https://www.cs.cmu.edu/~kmcrane/) 
 
+[Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html)
+
 ## Courses
 
 ## Libraries
