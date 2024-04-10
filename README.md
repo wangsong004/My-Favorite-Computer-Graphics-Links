@@ -1,4 +1,4 @@
-# My Favorite Computer Graphics Links
+# My Favorite Computer Graphics Links (Continuously updating)
 
 
 ## Websites
