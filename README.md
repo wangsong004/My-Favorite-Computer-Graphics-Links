@@ -15,7 +15,9 @@
 
 [keenan Crane](https://www.cs.cmu.edu/~kmcrane/) 
 
-[Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html)
+[Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) 
+
+[Inigo Quilez ](https://iquilezles.org/)
 
 ## Courses
 
