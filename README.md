@@ -30,6 +30,10 @@
 
 [GMP 2024](https://irc.cs.sdu.edu.cn/gmp2024/index.html#/)
 
+##  Journals
+
+[Graphical Models](https://www.sciencedirect.com/journal/graphical-models)
+
 ## Others
 
 
