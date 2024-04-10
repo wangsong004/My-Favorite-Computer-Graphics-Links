@@ -6,7 +6,9 @@
 
 [Ke-Sen Huang](https://kesen.realtimerendering.com/) 
 
-[TOG Research Resources](https://dl.acm.org/journal/tog/bib-look)
+[TOG Research Resources](https://dl.acm.org/journal/tog/bib-look) 
+
+[Shadertoy](https://www.shadertoy.com/)
 
 ## Homepages
 [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) 
