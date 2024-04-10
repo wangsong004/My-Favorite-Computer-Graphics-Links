@@ -21,6 +21,8 @@
 
 ## Courses
 
+[CMU Computer Graphics](https://www.bilibili.com/video/BV1Pf4y1E7GJ/?spm_id_from=333.337.search-card.all.click&vd_source=cf76d793a0406a305f4f4337b7df3ca6)
+
 ## Libraries
 [Graphics Replicability Stamp Initiative](https://www.replicabilitystamp.org/)
 
