@@ -24,6 +24,8 @@
 ## Libraries
 [Graphics Replicability Stamp Initiative](https://www.replicabilitystamp.org/)
 
+[Libigl](https://libigl.github.io/)
+
 ## Conferences
 
 [SGP 2024](https://sgp2024.github.io/program/#graduate-school) 
