@@ -34,6 +34,8 @@
 
 [Graphical Models](https://www.sciencedirect.com/journal/graphical-models)
 
+[Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659)
+
 ## Others
 
 
