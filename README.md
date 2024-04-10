@@ -26,7 +26,9 @@
 
 ## Conferences
 
-[SGP 2024](https://sgp2024.github.io/program/#graduate-school)
+[SGP 2024](https://sgp2024.github.io/program/#graduate-school) 
+
+[GMP 2024](https://irc.cs.sdu.edu.cn/gmp2024/index.html#/)
 
 ## Others
 
