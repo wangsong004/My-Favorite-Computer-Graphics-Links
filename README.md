@@ -1,5 +1,5 @@
 # My Favorite Computer Graphics Links 
-                                               (Continuously updating)
+                                           (Continuously updating)
 
 
 ## Websites
