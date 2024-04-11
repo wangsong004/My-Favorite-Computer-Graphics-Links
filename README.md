@@ -20,7 +20,9 @@
 
 [Inigo Quilez ](https://iquilezles.org/) 
 
-[Justin Solomon](https://people.csail.mit.edu/jsolomon/)
+[Justin Solomon](https://people.csail.mit.edu/jsolomon/) 
+
+[Denis Zorin](https://cims.nyu.edu/gcl/denis.html)
 
 ## Courses
 
