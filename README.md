@@ -18,7 +18,9 @@
 
 [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) 
 
-[Inigo Quilez ](https://iquilezles.org/)
+[Inigo Quilez ](https://iquilezles.org/) 
+
+[Justin Solomon](https://people.csail.mit.edu/jsolomon/)
 
 ## Courses
 
