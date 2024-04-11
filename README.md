@@ -45,4 +45,4 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 
 ### Implicit modeling
 
-[Ray Marching and Signed Distance Functions]([https://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/](https://github.com/CedricGuillemet/SDF))
+[Ray Marching and Signed Distance Functions](https://github.com/CedricGuillemet/SDF)
