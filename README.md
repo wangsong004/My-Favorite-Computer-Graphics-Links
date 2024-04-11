@@ -24,6 +24,8 @@
 
 [Denis Zorin](https://cims.nyu.edu/gcl/denis.html)
 
+[SILVIA SELLÁN](https://www.silviasellan.com/)
+
 ## Courses
 
 CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Video](https://www.bilibili.com/video/BV1Pf4y1E7GJ/?spm_id_from=333.337.search-card.all.click&vd_source=cf76d793a0406a305f4f4337b7df3ca6)
