@@ -12,19 +12,9 @@
 [Shadertoy](https://www.shadertoy.com/)
 
 ## Homepages
-[Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) 
+[Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/) [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) [Inigo Quilez ](https://iquilezles.org/) 
 
-[keenan Crane](https://www.cs.cmu.edu/~kmcrane/) 
-
-[Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) 
-
-[Inigo Quilez ](https://iquilezles.org/) 
-
-[Justin Solomon](https://people.csail.mit.edu/jsolomon/) 
-
-[Denis Zorin](https://cims.nyu.edu/gcl/denis.html)
-
-[SILVIA SELLÁN](https://www.silviasellan.com/)
+[Justin Solomon](https://people.csail.mit.edu/jsolomon/) [Denis Zorin](https://cims.nyu.edu/gcl/denis.html) [SILVIA SELLÁN](https://www.silviasellan.com/)
 
 ## Courses
 
