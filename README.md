@@ -59,8 +59,6 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 
 [CAD](https://www.sciencedirect.com/journal/computer-aided-design) 
 
-[Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659)
-
 ## Others
 
 ### Implicit modeling
