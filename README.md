@@ -30,7 +30,9 @@
 
 [Olga Sorkine-Hornung](https://igl.ethz.ch/) 
 
-[Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/)
+[Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/) 
+
+[Mario Botsch](https://ls7-gv.cs.tu-dortmund.de/people/botsch_mario.html)
 
 ## Courses
 
