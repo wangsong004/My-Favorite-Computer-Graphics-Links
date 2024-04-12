@@ -53,7 +53,9 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 
 [Graphical Models](https://www.sciencedirect.com/journal/graphical-models)
 
-[Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659)
+[Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659) 
+
+[CAD](https://www.sciencedirect.com/journal/computer-aided-design)
 
 ## Others
 
