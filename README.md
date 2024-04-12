@@ -59,6 +59,10 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 
 [CAD](https://www.sciencedirect.com/journal/computer-aided-design) 
 
+## Books
+
+[Computer Graphics and Computer Animation: A Retrospective Overview](https://ohiostate.pressbooks.pub/graphicshistory/)
+
 ## Others
 
 ### Implicit modeling
