@@ -24,7 +24,9 @@
 
 [Denis Zorin](https://cims.nyu.edu/gcl/denis.html)
 
-[SILVIA SELLÁN](https://www.silviasellan.com/)
+[SILVIA SELLÁN](https://www.silviasellan.com/) 
+
+[Wenzel Jakob](https://rgl.epfl.ch/people/wjakob)
 
 ## Courses
 
