@@ -32,7 +32,9 @@
 
 [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/) 
 
-[Mario Botsch](https://ls7-gv.cs.tu-dortmund.de/people/botsch_mario.html)
+[Mario Botsch](https://ls7-gv.cs.tu-dortmund.de/people/botsch_mario.html) 
+
+[Leif Kobbelt](https://www.graphics.rwth-aachen.de/person/3/)
 
 ## Courses
 
