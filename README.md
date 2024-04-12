@@ -28,7 +28,9 @@
 
 [Wenzel Jakob](https://rgl.epfl.ch/people/wjakob)
 
-[Olga Sorkine-Hornung](https://igl.ethz.ch/)
+[Olga Sorkine-Hornung](https://igl.ethz.ch/) 
+
+[Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/)
 
 ## Courses
 
