@@ -68,3 +68,6 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 ### Implicit modeling
 
 [Ray Marching and Signed Distance Functions](https://github.com/CedricGuillemet/SDF)
+
+### OpenGL
+[Learn OpenGL](https://learnopengl.com/)
