@@ -9,6 +9,8 @@
 
 [TOG Research Resources](https://dl.acm.org/journal/tog/bib-look) 
 
+[Wigraph Learning](https://www.wigraph.org/resources/learning/)
+
 [Shadertoy](https://www.shadertoy.com/)
 
 ## Homepages
