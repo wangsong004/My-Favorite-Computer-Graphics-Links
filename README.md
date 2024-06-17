@@ -63,6 +63,8 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 
 [CAD](https://www.sciencedirect.com/journal/computer-aided-design) 
 
+[Computers & Graphics](https://www.sciencedirect.com/journal/computers-and-graphics)
+
 ## Books
 
 [Computer Graphics and Computer Animation: A Retrospective Overview](https://ohiostate.pressbooks.pub/graphicshistory/)
