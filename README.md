@@ -80,3 +80,7 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 
 ### OpenGL
 [Learn OpenGL](https://learnopengl.com/)
+
+### Data set
+
+[The Stanford 3D Scanning Repository](https://graphics.stanford.edu/data/3Dscanrep/)
