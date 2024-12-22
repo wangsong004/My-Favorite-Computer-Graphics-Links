@@ -74,11 +74,17 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 
 [Computer Graphics and Computer Animation: A Retrospective Overview](https://ohiostate.pressbooks.pub/graphicshistory/)
 
-## Others
+## Blogs and Articles I like
 
 ### Implicit modeling
 
-[Ray Marching and Signed Distance Functions](https://github.com/CedricGuillemet/SDF) 
+[Ray Marching and Signed Distance Functions](https://github.com/CedricGuillemet/SDF)  
+
+[Smooth minimum for SDFs](https://iquilezles.org/articles/smin/)
+
+[Interior SDFs](https://iquilezles.org/articles/interiordistance/)
+
+
 
 ### Geometry modeling 
 
