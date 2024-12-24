@@ -84,6 +84,9 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 
 [Interior SDFs](https://iquilezles.org/articles/interiordistance/)
 
+[2D distance functions](https://iquilezles.org/articles/distfunctions2d/) 
+
+[3D distance functions](https://iquilezles.org/articles/distfunctions/)
 
 
 ### Geometry modeling 
