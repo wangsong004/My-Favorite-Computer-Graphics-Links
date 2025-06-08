@@ -13,38 +13,6 @@
 
 [Shadertoy](https://www.shadertoy.com/)
 
-## Homepages
-
-[CSRankings](https://csrankings.org/#/index?graph&world)
-
-[Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) 
-
-[Keenan Crane](https://www.cs.cmu.edu/~kmcrane/) 
-
-[Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) 
-
-[Inigo Quilez ](https://iquilezles.org/) 
-
-[Justin Solomon](https://people.csail.mit.edu/jsolomon/)
-
-[Denis Zorin](https://cims.nyu.edu/gcl/denis.html)
-
-[SILVIA SELLÁN](https://www.silviasellan.com/) 
-
-[Wenzel Jakob](https://rgl.epfl.ch/people/wjakob)
-
-[Olga Sorkine-Hornung](https://igl.ethz.ch/) 
-
-[Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/) 
-
-[Mario Botsch](https://ls7-gv.cs.tu-dortmund.de/people/botsch_mario.html) 
-
-[Leif Kobbelt](https://www.graphics.rwth-aachen.de/person/3/)
-
-[Peter Shirley](https://www.petershirley.com/)
-
-[Matt Keeter](https://www.mattkeeter.com/)
-
 ## Courses
 
 CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Video](https://www.bilibili.com/video/BV1Pf4y1E7GJ/?spm_id_from=333.337.search-card.all.click&vd_source=cf76d793a0406a305f4f4337b7df3ca6)
