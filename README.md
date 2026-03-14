@@ -20,8 +20,9 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 ## Libraries
 [Graphics Replicability Stamp Initiative](https://www.replicabilitystamp.org/)
 
-[Libigl](https://libigl.github.io/)
+[Libigl](https://libigl.github.io/) 
 
+[3D packing](https://github.com/Vrroom/psacking)
 ## Conferences
 
 [SGP 2024](https://sgp2024.github.io/program/#graduate-school) 
