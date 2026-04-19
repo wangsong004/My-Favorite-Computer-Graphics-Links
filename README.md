@@ -78,15 +78,6 @@ These categories are all useful for computer graphics research, especially for t
 
 ---
 
-## Monthly Archive Pattern
-
-You can manually change the year and month in the URL:
-
-```text
-https://arxiv.org/list/cs.GR/YYYY-MM
-https://arxiv.org/list/cs.CG/YYYY-MM
-https://arxiv.org/list/cs.CV/YYYY-MM
-
 ## Books
 
 [Computer Graphics and Computer Animation: A Retrospective Overview](https://ohiostate.pressbooks.pub/graphicshistory/)
