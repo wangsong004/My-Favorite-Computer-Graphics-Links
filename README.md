@@ -39,6 +39,54 @@ CMU Computer Graphics [Webpage](http://15462.courses.cs.cmu.edu/fall2020/) [Vide
 
 [Computers & Graphics](https://www.sciencedirect.com/journal/computers-and-graphics)
 
+## arXiv Graphics Paper Tracking
+
+A quick set of links for checking recent and archived graphics-related papers on arXiv.
+
+### Main Entry Points
+
+- [cs.GR Recent Papers](https://arxiv.org/list/cs.GR/recent)  
+  Recent graphics papers from the last few announcement days.
+
+- [cs.GR New Papers](https://arxiv.org/list/cs.GR/new)  
+  The newest batch of papers in the Graphics category.
+
+- [cs.GR April 2026 Archive](https://arxiv.org/list/cs.GR/2026-04)  
+  Full monthly archive for April 2026.
+
+- [cs.GR March 2026 Archive](https://arxiv.org/list/cs.GR/2026-03)  
+  Full monthly archive for March 2026.
+
+---
+
+## Related Categories
+
+- [cs.GR — Graphics](https://arxiv.org/list/cs.GR/recent)
+- [cs.CG — Computational Geometry](https://arxiv.org/list/cs.CG/recent)
+- [cs.CV — Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent)
+
+These categories are all useful for computer graphics research, especially for topics such as:
+
+- mesh processing
+- geometry processing
+- computational geometry
+- CAD
+- neural rendering
+- 3D reconstruction
+- Gaussian splatting
+- differentiable rendering
+
+---
+
+## Monthly Archive Pattern
+
+You can manually change the year and month in the URL:
+
+```text
+https://arxiv.org/list/cs.GR/YYYY-MM
+https://arxiv.org/list/cs.CG/YYYY-MM
+https://arxiv.org/list/cs.CV/YYYY-MM
+
 ## Books
 
 [Computer Graphics and Computer Animation: A Retrospective Overview](https://ohiostate.pressbooks.pub/graphicshistory/)
